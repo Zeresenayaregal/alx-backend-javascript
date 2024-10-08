@@ -6,7 +6,7 @@
  *   location: String
  * }[]} students - The list of students.
  * @param {String} city - The location.
- * @author Mikiyas Dawit <https://github.com/MAYSHLMAY>
+ * @author Zeresenay Yaregal <https://github.com/Zeresenayaregal>
  * @returns
  */
 export default function getStudentsByLocation(students, city) {

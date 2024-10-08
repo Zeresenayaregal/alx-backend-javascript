@@ -1,7 +1,7 @@
 /**
  * Creates a set from an array.
  * @param {Array} array - The source array.
- * @author Mikiyas Dawit <https://github.com/MAYSHLMAY>
+ * @author Zeresenay Yaregal <https://github.com/Zeresenayaregal>
  * @returns {Set}
  */
 export default function setFromArray(array) {
